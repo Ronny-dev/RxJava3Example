@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxJavaExample</string>
+    <string name="s_rxjava_demo1">Create</string>
+    <string name="s_rxjava_demo">click</string>
+    <string name="s_rxjava_demo2">Schedulers</string>
+    <string name="s_rxjava_demo3">Operators</string>
+    <string name="s_rxjava_demo4">Emitter</string>
+</resources>
